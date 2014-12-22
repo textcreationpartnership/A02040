@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A moste true and marueilous straunge wonder, the lyke hath seldom ben seene, of. XVII. monstrous fis
+
+1. A Moste true and marueilous straunge wonder, the lyke hath
+seldom ben seene, of .XUII. Monstrous fisshes, taken in Suffolke, at Downam brydge, within a myle
+of Ipswiche. The .XI. daye of October. In the yeare of our Lorde God. M.D.LX.UIII.
+
+
 #####Back#####
-A moste true and marueilous straunge wonder, the lyke hath seldom ben seene, of. XVII. monstrous fis
+Imprynted at London in Fleetestreate▪ at the signe
+of S. Iohn Euangelist by Thomas Colwell.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
